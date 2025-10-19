@@ -13,22 +13,19 @@ The project combines Summarization (to compress log data into actionable insight
 
 ## Technical Stack
 
-AI Model: IBM Granite 3.3-8B Instruct
+| Technical | Tools |
+|------|--------------|
+| AI Model | IBM Granite 3.3-8B Instruct |
+| Platform | Google Colab |
+| Integration | Replicate API |
+| Language | Python |
+| Libraries | langchain_community, replicate, pandas, matplotlib |
 
-Platform: Google Colab
 
-Integration: Replicate API
 
-Language: Python
+## Key Features
 
-Libraries: langchain_community, replicate, pandas, matplotlib
-
-🧩 Key Features
-
-📄 Automatic log summarization using AI
-
-🧠 Classification insight extraction for error type detection
-
-🔧 Adjustable model parameters (top_k, top_p, max_tokens, repetition_penalty)
-
-📊 Clean visual and structured outputs
+    1. Automatic log summarization using AI
+    2. Classification insight extraction for error type detection
+    3. Adjustable model parameters (top_k, top_p, max_tokens, repetition_penalty)
+    4. Clean visual and structured outputs
