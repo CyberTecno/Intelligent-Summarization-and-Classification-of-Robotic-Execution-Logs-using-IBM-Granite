@@ -161,5 +161,4 @@ Date: April 22, 1999
 This dataset is made publicly available by the UCI Machine Learning Repository for research and educational purposes.  
 You are free to use, modify, and distribute the dataset, provided that proper attribution is given to the original authors and source.
 
-**Citation (recommended):**  
 
