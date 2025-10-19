@@ -97,7 +97,7 @@ Each file contains **15 force/torque samples** recorded at regular time interval
 This visualization shows how often each keyword (e.g., *sensor*, *collision*, *torque*) appeared in each dataset summary.
 
 <p align="center">
-  <img src="IBM%20Granite%20Robotic%20Failure%20Insight/Assets/bar%20chart.png" width="400" alt="IBM Granite Error Keywords">
+  <img src="IBM%20Granite%20Robotic%20Failure%20Insight/Assets/bar%20chart.png" width="500" alt="IBM Granite Error Keywords">
 </p>
 
 The following chart shows the overall distribution of dominant keywords detected by IBM Granite across all datasets:
