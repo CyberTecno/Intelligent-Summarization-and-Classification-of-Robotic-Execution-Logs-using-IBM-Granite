@@ -1,4 +1,4 @@
-This project demonstrates how Large Language Models (LLMs) like IBM Granite can be applied to robotics data analytics — specifically to summarize and identify patterns within robotic execution logs.
+This project demonstrates how Large Language Models (LLMs) like IBM Granite can be applied to robotics data analytics  specifically to summarize and identify patterns within robotic execution logs.
 
 Robotic systems generate extensive log data that is often difficult to interpret manually.
 By leveraging IBM Granite's summarization and reasoning capabilities, this project transforms raw log data into structured, human-readable insights that highlight:
