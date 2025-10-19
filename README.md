@@ -96,7 +96,7 @@ Each file contains **15 force/torque samples** recorded at regular time interval
 ## Visualization
 The following chart shows the overall distribution of dominant keywords detected by IBM Granite across all datasets:
 
-![IBM Granite Error Keywords](ibm_granite_piechart.png)
+![IBM Granite Error Keywords](assets/ibm_granite_piechart.png)
 
 **Top Error Categories**
 - Sensor-related anomalies → 31.8%  
